@@ -90,6 +90,11 @@ GET
 http://127.0.0.1:8000/api/posts
 ```
 
+#### 2. Create a Post
+```bash
+POST
+http://127.0.0.1:8000/api/posts
+
 #### 3. Get a Single Post
 ```bash
 GET
